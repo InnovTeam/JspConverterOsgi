@@ -9,7 +9,7 @@
   </parent>
 
   <properties>
-    <bundle.symbolicName>com.converter.api</bundle.symbolicName>
+    <bundle.symbolicName>api</bundle.symbolicName>
     <bundle.namespace>com.converter.api</bundle.namespace>
   </properties>
 
